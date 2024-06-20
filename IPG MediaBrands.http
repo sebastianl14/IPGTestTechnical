@@ -1,0 +1,6 @@
+@IPG_MediaBrands_HostAddress = http://localhost:5074
+
+GET {{IPG_MediaBrands_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
